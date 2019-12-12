@@ -1,0 +1,32 @@
+{
+  "name": "@ott_test/pd",
+  "version": "0.0.1",
+  "description": "Sample Component",
+  "keywords": [
+    "sample",
+    "component"
+  ],
+  "author": "Frank <fx@frankpurcell.com>",
+  "homepage": "https://github.com/OpenTransitTools-BonePile/lerna",
+  "license": "MIT",
+  "main": "lib/sample.js",
+  "module": "src/sample.js",
+  "peerDependencies": {
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "styled-components": "^4.4.1"
+  },
+  "publishConfig": {
+    "registry": "https://registry.yarnpkg.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OpenTransitTools-BonePile/lerna.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/OpenTransitTools-BonePile/lerna/issues"
+  }
+}
