@@ -1,6 +1,6 @@
 {
   "name": "@ott_test/geocoder",
-  "version": "0.0.1",
+  "version": "0.1.1",
   "description": "Geocoding tools for multiple geocoding providers",
   "main": "lib/index.js",
   "module": "src/index.js",

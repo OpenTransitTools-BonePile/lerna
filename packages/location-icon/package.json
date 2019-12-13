@@ -1,6 +1,6 @@
 {
   "name": "@ott_test/location-icon",
-  "version": "0.0.1",
+  "version": "0.1.1",
   "description": "A component to display a location icon for either the to or from location",
   "main": "lib/index.js",
   "module": "src/index.js",

@@ -1,6 +1,6 @@
 {
   "name": "@ott_test/location-field",
-  "version": "0.0.1",
+  "version": "0.1.1",
   "description": "A component for display and finding a location",
   "main": "lib/index.js",
   "module": "src/index.js",
@@ -9,10 +9,10 @@
   "license": "MIT",
   "private": false,
   "dependencies": {
-    "@ott_test/core-utils": "^0.0.1",
-    "@ott_test/geocoder": "^0.0.1",
-    "@ott_test/humanize-distance": "^0.0.1",
-    "@ott_test/location-icon": "^0.0.1",
+    "@ott_test/core-utils": "^0.1.1",
+    "@ott_test/geocoder": "^0.1.1",
+    "@ott_test/humanize-distance": "^0.1.1",
+    "@ott_test/location-icon": "^0.1.1",
     "prop-types": "^15.7.2",
     "styled-icons": "^9.0.1",
     "throttle-debounce": "^2.1.0"

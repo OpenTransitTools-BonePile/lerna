@@ -1,6 +1,6 @@
 {
   "name": "@ott_test/pulse-dot",
-  "version": "0.0.1",
+  "version": "0.1.1",
   "description": "A pulsating dot icon",
   "main": "lib/index.js",
   "module": "src/index.js",

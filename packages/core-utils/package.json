@@ -1,6 +1,6 @@
 {
   "name": "@ott_test/core-utils",
-  "version": "0.0.1",
+  "version": "0.1.1",
   "description": "Core functionality that is shared among numerous UI components",
   "main": "lib/index.js",
   "repository": "https://github.com/OpenTransitTools-BonePile/lerna.git",
