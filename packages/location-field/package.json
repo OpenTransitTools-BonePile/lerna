@@ -7,7 +7,7 @@
   "repository": "https://github.com/OpenTransitTools-BonePile/lerna.git",
   "author": "Evan Siroky",
   "license": "MIT",
-  "private": true,
+  "private": false,
   "dependencies": {
     "@ott_test/core-utils": "^0.0.1",
     "@ott_test/geocoder": "^0.0.1",
