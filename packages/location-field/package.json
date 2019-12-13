@@ -8,6 +8,11 @@
   "author": "Evan Siroky",
   "license": "MIT",
   "private": false,
+  "peerDependencies": {
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "styled-components": "^4.4.1"
+  },
   "dependencies": {
     "@ott_test/core-utils": "^0.1.1",
     "@ott_test/geocoder": "^0.1.1",
