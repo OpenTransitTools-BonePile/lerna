@@ -6,7 +6,7 @@
     "sample",
     "component"
   ],
-  "author": "Frank <fx@frankpurcell.com>",
+  "author": "Frank <npm@frankpurcell.com>",
   "homepage": "https://github.com/OpenTransitTools-BonePile/lerna",
   "license": "MIT",
   "main": "lib/sample.js",
@@ -26,5 +26,5 @@
   "bugs": {
     "url": "https://github.com/OpenTransitTools-BonePile/lerna/issues"
   },
-  "gitHead": "e3a7faea33565f998cc672ff641397402cc56f44"
+  "gitHead": "dc5b0667b6abdb8b823954bbc575a647c07009ca"
 }
