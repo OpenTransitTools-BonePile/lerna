@@ -16,9 +16,6 @@
     "react-dom": "^16.8.6",
     "styled-components": "^4.4.1"
   },
-  "publishConfig": {
-    "registry": "https://registry.yarnpkg.com"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/OpenTransitTools-BonePile/lerna.git"
@@ -29,5 +26,5 @@
   "bugs": {
     "url": "https://github.com/OpenTransitTools-BonePile/lerna/issues"
   },
-  "gitHead": "606d391f812498795bba5091ec14bc0a9f0009c5"
+  "gitHead": "e3a7faea33565f998cc672ff641397402cc56f44"
 }

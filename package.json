@@ -1,8 +1,9 @@
 {
-  "name": "root",
-  "private": true,
-  "workspaces": [
-    "packages/*"
+    "name": "root",
+    "version": "0.0.1",
+    "private": false,
+    "workspaces": [
+      "packages/*"
   ],
   "devDependencies": {
     "@babel/cli": "^7.4.4",
