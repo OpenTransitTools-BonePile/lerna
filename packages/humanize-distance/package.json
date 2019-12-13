@@ -1,0 +1,11 @@
+{
+  "name": "@ott_test/humanize-distance",
+  "version": "0.0.1",
+  "description": "Pretty print a string for a certain distance",
+  "main": "lib/index.js",
+  "module": "src/index.js",
+  "repository": "https://github.com/OpenTransitTools-BonePile/lerna.git",
+  "author": "Evan Siroky",
+  "license": "MIT",
+  "private": false
+}

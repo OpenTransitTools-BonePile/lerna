@@ -1,30 +1,16 @@
 {
-  "name": "@ott_test/pd",
-  "version": "0.0.7",
-  "description": "Sample Component",
-  "keywords": [
-    "sample",
-    "component"
-  ],
-  "author": "Frank <npm@frankpurcell.com>",
-  "homepage": "https://github.com/OpenTransitTools-BonePile/lerna",
+  "name": "@ott_test/pulse-dot",
+  "version": "0.0.1",
+  "description": "A pulsating dot icon",
+  "main": "lib/index.js",
+  "module": "src/index.js",
+  "repository": "https://github.com/OpenTransitTools-BonePile/lerna.git",
+  "author": "Cole Harper <charper@mapyours.com>",
   "license": "MIT",
-  "main": "lib/sample.js",
-  "module": "src/sample.js",
+  "private": false,
   "peerDependencies": {
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "styled-components": "^4.4.1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/OpenTransitTools-BonePile/lerna.git"
-  },
-  "scripts": {
-    "test": "echo \"Error: run tests from root\" && exit 1"
-  },
-  "bugs": {
-    "url": "https://github.com/OpenTransitTools-BonePile/lerna/issues"
-  },
-  "gitHead": "b3848658cb00cd018d45efb8cd58eb067bb70054"
+  }
 }
