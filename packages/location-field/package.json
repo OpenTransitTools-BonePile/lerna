@@ -1,6 +1,6 @@
 {
   "name": "@ott_test/location-field",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "A component for display and finding a location",
   "main": "lib/index.js",
   "module": "src/index.js",
