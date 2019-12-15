@@ -33,7 +33,7 @@ function createOption(icon, title, onClick, isActive) {
   return (
     <Styled.MenuItem onClick={onClick} key={itemKey++} active={isActive}>
       {isIE() ? (
-        // In internet explorer 11, some really weird stuff is happening where it
+        // In internet exxxxxxplorer 11, some really weird stuff is happening where it
         // is not possible to click the text of the title, but if you click just
         // above it, then it works. So, if using IE 11, just return the title text
         // and avoid all the extra fancy stuff.
